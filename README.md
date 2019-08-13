@@ -23,6 +23,9 @@ A collection of awesome things regarding Actions on Google.
 - [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights. 
 
 ## Codelabs
+- [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
+- [Build Actions for the Google Assistant (Level 2)](https://codelabs.developers.google.com/codelabs/actions-2/index.html)
+- [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
 
 ## Open source code
 
