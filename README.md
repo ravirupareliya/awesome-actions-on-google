@@ -3,6 +3,8 @@
 A collection of awesome things regarding Actions on Google.
 
 ## Blogs
+- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by Joe Birch
+- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) by Uri Shaked
 
 ## Videos
 - [Intro to the Google Assistant: Build Your First Action (Google I/O'19)](https://youtu.be/dpNrq_wiqGs) - This intro session will cover the fundamentals of the Google Assistant and what you can build for the assistive future.
