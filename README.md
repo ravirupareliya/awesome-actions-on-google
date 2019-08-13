@@ -1,2 +1,11 @@
 # AoG-Resources
-This repository contains everything about Actions on Google.
+
+A collection of awesome things regarding Actions on Google.
+
+### Blogs
+
+### Videos
+
+### Open source code
+
+### Applications
