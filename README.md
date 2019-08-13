@@ -1,6 +1,6 @@
 # AoG-Resources
 
-A collection of awesome things regarding Actions on Google.
+A collection of useful things regarding Actions on Google.
 
 ## Blogs
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by Joe Birch
@@ -30,6 +30,11 @@ A collection of awesome things regarding Actions on Google.
 ## Open source code
 
 ## Applications
+- [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts
+- [Random Number](https://assistant.google.com/services/a/uid/0000003b4796e827) - It will generate a random number.
+- [Netflix](https://assistant.google.com/services/a/uid/0000002a8e07d537) - Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries.
+- [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
+- [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
 ## Contributing
 Your contributions are always welcome! Just follow the following format: `- [reference name](link) - Description.` Make sure you are adding links under most related sections.
