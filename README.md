@@ -3,10 +3,14 @@
 A collection of useful things regarding Actions on Google.
 
 ## Blogs
-- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by Joe Birch
-- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) by Uri Shaked
+- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by [Joe Birch](https://twitter.com/hitherejoe)
+- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) by [Uri Shaked](https://twitter.com/UriShaked)
 
 ## Videos
+- [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
+- [Smart Home Integrations on Google Assistant](https://youtu.be/cxABjSOa6RY) - Jessica Dene Early-Cha and guest Dan Myers go over how to get onboarded to Google Assistant for their smart devices and how voice commands work.
+- [Pathway to creating your own Action](https://youtu.be/Jy4CsxNafeE) - Jessica Dene Earley-Cha and guest Brad Abrams talk about content, App Actions, and experiences. 
+- [Creating personality for your Actions](https://youtu.be/dh_mixqvrP0) - In this episode of Assistant on Air, host Jessica Dene Early Cha and guest Wally Brill discuss why it's important to design with persona and how to bring it to life.
 - [Intro to the Google Assistant: Build Your First Action (Google I/O'19)](https://youtu.be/dpNrq_wiqGs) - This intro session will cover the fundamentals of the Google Assistant and what you can build for the assistive future.
 - [Reach the Next Billion Users with Your Actions for the Google Assistant (Google I/O'19)](https://youtu.be/ak6Uj02DTjk) - Come learn how users in emerging markets are interacting with the Google Assistant, what they expect from your Actions, and what opportunities you have to grow your services with them.
 - [Smart Home 101: How to Develop for the Connected Home (Google I/O'19)](https://youtu.be/SJ2KYVKfURA) - This session covers updates on the latest tools and capabilities of our smart home API, along with how developers and device makers alike can benefit from deeper integrations with the Google Assistant ecosystem.
@@ -20,7 +24,7 @@ A collection of useful things regarding Actions on Google.
 - [Voice and Visual: How to Build Actions for Smart Displays and More Devices (Google I/O'19)](https://youtu.be/Oh4lCL05XWc) - In this talk, we’ll walk you through design and developer considerations for building multimodal experiences across Google Assistant-enabled devices.
 - [How We Built the Google Assistant Sandbox Demos (And How You Can Too) (Google I/O'19)](https://youtu.be/w2wDR8rr0Hk) 
 - [Data and Insights to Build for the Digital Assistant Era (Google I/O'19)](https://youtu.be/b3nDCC2K3rY)
-- [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights. 
+- [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights.
 
 ## Codelabs
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
@@ -28,6 +32,16 @@ A collection of useful things regarding Actions on Google.
 - [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
 
 ## Open source code
+
+## People to follow
+- [Jessica Dene Earley-Cha](https://twitter.com/chatasweetie)
+- [Joe Birch](https://twitter.com/hitherejoe)
+- [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg)
+- [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr)
+- [Aygul Zagidullina](https://twitter.com/aygul)
+- [Mandy Chan](https://twitter.com/MandyChanNYC)
+- [Yoichiro Tanaka](https://twitter.com/yoichiro)
+- [Cathy Pearl](https://twitter.com/cpearl42)
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts
