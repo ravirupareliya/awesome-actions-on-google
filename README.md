@@ -2,9 +2,21 @@
 
 A collection of useful things regarding Actions on Google.
 
+- [Blogs](https://github.com/ravirupareliya/AoG-Resources#blogs)
+- [Videos](https://github.com/ravirupareliya/AoG-Resources#videos)
+- [Codelabs/Courses](https://github.com/ravirupareliya/AoG-Resources#codelabs)
+- [Open source code](https://github.com/ravirupareliya/AoG-Resources#open-source-code)
+- [People to follow](https://github.com/ravirupareliya/AoG-Resources#people-to-follow)
+- [Applications](https://github.com/ravirupareliya/AoG-Resources#applications)
+- [Contributing](https://github.com/ravirupareliya/AoG-Resources#contributing)
+
 ## Blogs
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by [Joe Birch](https://twitter.com/hitherejoe)
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) by [Uri Shaked](https://twitter.com/UriShaked)
+- [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) by [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
+- [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) by [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
+- [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) by [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
+- [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) by Ruben Oostinga
 
 ## Videos
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
@@ -26,14 +38,27 @@ A collection of useful things regarding Actions on Google.
 - [Data and Insights to Build for the Digital Assistant Era (Google I/O'19)](https://youtu.be/b3nDCC2K3rY)
 - [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights.
 
-## Codelabs
+## Codelabs/Courses
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
 - [Build Actions for the Google Assistant (Level 2)](https://codelabs.developers.google.com/codelabs/actions-2/index.html)
 - [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
+- [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) : Qwiklabs quest with 6 labs
+- [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) : Udemy course to create an app for the Google Assistant and Google Home in Node.js
+- [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) : Udemy course to build actions with Dialogflow.
+
 
 ## Open source code
+- Silly Name Maker [(node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Facts about Google [(node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Name Psychic [(node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-name-psychic-java)
+- Number Genie [(node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-number-genie-java)
+- [GDG Action](https://github.com/actions-on-google/dialogflow-gdg-nodejs)
+- Say Number [(node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(java)](https://github.com/actions-on-google/actionssdk-say-number-java)
+- [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs)
+- [PDPU Scheduler](https://github.com/nish17/scheduler)
 
 ## People to follow
+- [Actions on Google](https://twitter.com/actionsongoogle)
 - [Jessica Dene Earley-Cha](https://twitter.com/chatasweetie)
 - [Joe Birch](https://twitter.com/hitherejoe)
 - [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg)
