@@ -4,7 +4,7 @@ A collection of useful things regarding Actions on Google.
 
 - [Blogs](https://github.com/ravirupareliya/AoG-Resources#blogs)
 - [Videos](https://github.com/ravirupareliya/AoG-Resources#videos)
-- [Codelabs/Courses](https://github.com/ravirupareliya/AoG-Resources#codelabs)
+- [Codelabs/Courses](https://github.com/ravirupareliya/AoG-Resources#codelabscourses)
 - [Open source code](https://github.com/ravirupareliya/AoG-Resources#open-source-code)
 - [People to follow](https://github.com/ravirupareliya/AoG-Resources#people-to-follow)
 - [Applications](https://github.com/ravirupareliya/AoG-Resources#applications)
