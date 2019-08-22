@@ -17,6 +17,7 @@ A collection of useful things regarding Actions on Google.
 - [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) by [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
 - [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) by [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
 - [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) by Ruben Oostinga
+- [Sachin Kumar](https://medium.com/@sachindroid8) - In-depth articles by [Sachin Kumar](https://twitter.com/sachin_atk)
 
 ## Videos
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
@@ -67,6 +68,7 @@ A collection of useful things regarding Actions on Google.
 - [Mandy Chan](https://twitter.com/MandyChanNYC)
 - [Yoichiro Tanaka](https://twitter.com/yoichiro)
 - [Cathy Pearl](https://twitter.com/cpearl42)
+- [Sachin Kumar](https://twitter.com/sachin_atk)
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts
