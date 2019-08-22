@@ -57,6 +57,7 @@ A collection of useful things regarding Actions on Google.
 - Say Number [(node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(java)](https://github.com/actions-on-google/actionssdk-say-number-java)
 - [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs)
 - [PDPU Scheduler](https://github.com/nish17/scheduler)
+- [karaoke](https://github.com/amdcaruso/karaoke) by [Amanda Cavallaro](https://github.com/amdcaruso)
 
 ## People to follow
 - [Actions on Google](https://twitter.com/actionsongoogle)
