@@ -1,4 +1,4 @@
-# AoG-Resources
+# Awesome AoG
 
 A collection of useful things regarding Actions on Google.
 
