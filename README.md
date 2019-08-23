@@ -1,22 +1,23 @@
 # Awesome AoG
 
-A collection of useful things regarding Actions on Google.
+> A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos.
 
-- [Blogs](https://github.com/ravirupareliya/AoG-Resources#blogs)
-- [Videos](https://github.com/ravirupareliya/AoG-Resources#videos)
-- [Codelabs/Courses](https://github.com/ravirupareliya/AoG-Resources#codelabscourses)
-- [Open source code](https://github.com/ravirupareliya/AoG-Resources#open-source-code)
-- [People to follow](https://github.com/ravirupareliya/AoG-Resources#people-to-follow)
-- [Applications](https://github.com/ravirupareliya/AoG-Resources#applications)
-- [Contributing](https://github.com/ravirupareliya/AoG-Resources#contributing)
+## Contents
+
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [Codelabs/Courses](#codelabscourses)
+- [Open source code](#open-source-code)
+- [People to follow](#people-to-follow)
+- [Applications](#applications)
 
 ## Blogs
-- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) by [Joe Birch](https://twitter.com/hitherejoe)
-- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) by [Uri Shaked](https://twitter.com/UriShaked)
-- [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) by [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
-- [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) by [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
-- [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) by [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
-- [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) by Ruben Oostinga
+- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - [Joe Birch](https://twitter.com/hitherejoe)
+- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - [Uri Shaked](https://twitter.com/UriShaked)
+- [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) - [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
+- [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) - [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
+- [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) - [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
+- [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) - Ruben Oostinga.
 - [Sachin Kumar](https://medium.com/@sachindroid8) - In-depth articles by [Sachin Kumar](https://twitter.com/sachin_atk)
 
 ## Videos
@@ -43,21 +44,21 @@ A collection of useful things regarding Actions on Google.
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
 - [Build Actions for the Google Assistant (Level 2)](https://codelabs.developers.google.com/codelabs/actions-2/index.html)
 - [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
-- [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) : Qwiklabs quest with 6 labs
-- [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) : Udemy course to create an app for the Google Assistant and Google Home in Node.js
-- [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) : Udemy course to build actions with Dialogflow.
+- [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) - Qwiklabs quest with 6 labs.
+- [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) - Udemy course to create an app for the Google Assistant and Google Home in Node.js.
+- [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) - Udemy course to build actions with Dialogflow.
 
 
 ## Open source code
-- Silly Name Maker [(node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
-- Facts about Google [(node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
-- Name Psychic [(node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-name-psychic-java)
-- Number Genie [(node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-number-genie-java)
+- Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Name Psychic [(Node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-name-psychic-java)
+- Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-number-genie-java)
 - [GDG Action](https://github.com/actions-on-google/dialogflow-gdg-nodejs)
-- Say Number [(node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(java)](https://github.com/actions-on-google/actionssdk-say-number-java)
+- Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(java)](https://github.com/actions-on-google/actionssdk-say-number-java)
 - [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs)
 - [PDPU Scheduler](https://github.com/nish17/scheduler)
-- [karaoke](https://github.com/amdcaruso/karaoke) by [Amanda Cavallaro](https://github.com/amdcaruso)
+- [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso)
 
 ## People to follow
 - [Actions on Google](https://twitter.com/actionsongoogle)
@@ -72,19 +73,16 @@ A collection of useful things regarding Actions on Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk)
 
 ## Applications
-- [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts
+- [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
 - [Random Number](https://assistant.google.com/services/a/uid/0000003b4796e827) - It will generate a random number.
 - [Netflix](https://assistant.google.com/services/a/uid/0000002a8e07d537) - Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries.
 - [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 - [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
-## Contributing
-Your contributions are always welcome! Just follow the following format: `- [reference name](link) - Description.` Make sure you are adding links under most related sections.
+## Contribute
 
-### Submitting a Pull Request
-Before you submit your pull request consider the following guidelines:
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-* Search [GitHub](https://github.com/ravirupareliya/AoG-Resources/pulls) for an open or closed Pull Request
-  that relates to your submission. We don't want to duplicate effort!
-* Make your changes in a new git branch. Please be aware that we are following the [git flow branching model](http://nvie.com/posts/a-successful-git-branching-model/) with `master` as the branch for the next version!
-* Commit your changes using a descriptive commit message. 
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
