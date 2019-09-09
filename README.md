@@ -1,4 +1,4 @@
-# Awesome AoG
+# Awesome AoG  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos.
 
