@@ -71,6 +71,7 @@
 - [Yoichiro Tanaka](https://twitter.com/yoichiro)
 - [Cathy Pearl](https://twitter.com/cpearl42)
 - [Sachin Kumar](https://twitter.com/sachin_atk)
+- [Nick Felker](https://twitter.com/handnf)
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
