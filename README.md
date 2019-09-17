@@ -1,6 +1,6 @@
-# Awesome AoG  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Actions on Google  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos.
+A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos.
 
 ## Contents
 
@@ -12,13 +12,12 @@
 - [Applications](#applications)
 
 ## Blogs
-- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - [Joe Birch](https://twitter.com/hitherejoe)
-- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - [Uri Shaked](https://twitter.com/UriShaked)
-- [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) - [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
-- [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) - [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
-- [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) - [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
-- [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) - Ruben Oostinga.
-- [Sachin Kumar](https://medium.com/@sachindroid8) - In-depth articles by [Sachin Kumar](https://twitter.com/sachin_atk)
+- [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
+- [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
+- [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) - By [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
+- [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) - By [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
+- [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) - By [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
+- [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) - By Ruben Oostinga.
 
 ## Videos
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
@@ -50,28 +49,28 @@
 
 
 ## Open source code
-- Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
-- Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
-- Name Psychic [(Node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-name-psychic-java)
-- Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(java)](https://github.com/actions-on-google/dialogflow-number-genie-java)
+- Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java)
+- Name Psychic [(Node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-name-psychic-java)
+- Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-number-genie-java)
 - [GDG Action](https://github.com/actions-on-google/dialogflow-gdg-nodejs)
-- Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(java)](https://github.com/actions-on-google/actionssdk-say-number-java)
+- Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(Java)](https://github.com/actions-on-google/actionssdk-say-number-java)
 - [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs)
 - [PDPU Scheduler](https://github.com/nish17/scheduler)
 - [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso)
 
 ## People to follow
-- [Actions on Google](https://twitter.com/actionsongoogle)
-- [Jessica Dene Earley-Cha](https://twitter.com/chatasweetie)
-- [Joe Birch](https://twitter.com/hitherejoe)
-- [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg)
-- [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr)
-- [Aygul Zagidullina](https://twitter.com/aygul)
-- [Mandy Chan](https://twitter.com/MandyChanNYC)
-- [Yoichiro Tanaka](https://twitter.com/yoichiro)
-- [Cathy Pearl](https://twitter.com/cpearl42)
-- [Sachin Kumar](https://twitter.com/sachin_atk)
-- [Nick Felker](https://twitter.com/handnf)
+- [Actions on Google](https://twitter.com/actionsongoogle) - Official Actions on Google Account.
+- [Jessica Dene Earley-Cha](https://twitter.com/chatasweetie) - Developer Advocate @google.
+- [Joe Birch](https://twitter.com/hitherejoe) - Android Lead @Buffer. GDE for @Android, @actionsongoogle, @FlutterIO & @GooglePay. Instructor @caster_io.
+- [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg) - GDE for Actions on Google.
+- [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr) -  GDE for Actions on Google.
+- [Aygul Zagidullina](https://twitter.com/aygul) -  GDE for Actions on Google.
+- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer community manager for the Actions On Google team.
+- [Yoichiro Tanaka](https://twitter.com/yoichiro) - GDE for Actions on Google.
+- [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
+- [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
+- [Nick Felker](https://twitter.com/handnf) - Developer Programs Engineer at Google.
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
