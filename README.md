@@ -59,7 +59,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(Java)](https://github.com/actions-on-google/actionssdk-say-number-java) - Say a number Actions SDK sample for Actions on Google.
 - [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google.
 - [PDPU Scheduler](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
-- [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, Youtube API and Actions on Google.
+- [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
 ## People to follow
 - [Actions on Google](https://twitter.com/actionsongoogle) - Official Actions on Google Account.
