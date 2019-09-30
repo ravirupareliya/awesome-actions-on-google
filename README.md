@@ -13,6 +13,13 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [People to follow](#people-to-follow)
 - [Applications](#applications)
 
+## Document
+
+- [Actions on Google](https://developers.google.com/actions/)
+- [Template Actions](https://developers.google.com/actions/templates/)
+- [Build digital transactions](https://developers.google.com/actions/transactions/digital/dev-guide-digital)
+- [Interactive Canvas](https://developers.google.com/actions/interactivecanvas)
+
 ## Blogs
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
