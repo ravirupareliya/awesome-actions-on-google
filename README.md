@@ -68,7 +68,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Allen "Prisoner" Firstenberg](https://twitter.com/afirstenberg) - GDE for Actions on Google.
 - [Amanda (Chibi) Cavallaro](https://twitter.com/chibichibibr) -  GDE for Actions on Google.
 - [Aygul Zagidullina](https://twitter.com/aygul) -  GDE for Actions on Google.
-- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer community manager for the Actions On Google team.
+- [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 - [Yoichiro Tanaka](https://twitter.com/yoichiro) - GDE for Actions on Google.
 - [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
