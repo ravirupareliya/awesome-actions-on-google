@@ -1,6 +1,6 @@
 # Awesome Actions on Google  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos.
+A curated list of awesome AoG(Action on Google) libraries, blogs, open-source project, videos!
 
 With [Actions on Google](https://developers.google.com/actions/), you can easily reach and engage with users across Google. From quick commands to full conversations, Actions help you connect your content and services to users with the Google Assistant.
 
