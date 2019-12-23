@@ -27,6 +27,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Build your own Action for Google Assistant](https://www.androidauthority.com/how-to-build-google-assistant-actions-877154/) - By [Jessica Thornsy](https://www.androidauthority.com/author/jessicathornsby/)
 - [Create Your First Google Assistant Application](https://android.jlelse.eu/create-your-first-google-assitant-application-9a51cea37728) - By [Ravi Rupareliya](https://twitter.com/ravi_rupareliya)
 - [How to automate testing for Google Assistant Apps?](https://xebia.com/blog/how-to-automate-testing-for-google-assistant-apps/) - By Ruben Oostinga.
+- [Use video loops with Interactive Canvas](https://medium.com/google-developers/use-video-loops-with-interactive-canvas-dc7503e95c6a) - By [Leon Nicholls](https://twitter.com/TheLeonNicholls)
 
 ## Videos
 - [What are Actions on Google](https://youtu.be/D-lhorsDlUQ) - Luke Davis and guest Jessica Dene Early-Cha introduce the concept of Actions on Google, and talk about common terminology.
