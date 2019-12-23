@@ -59,6 +59,8 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 ## Open source code
 - [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
+- [Interactive Canvas editor](https://github.com/actions-on-google-labs/interactive-canvas-editor-nodejs) - Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.
+- [Virtual Pet](https://github.com/actions-on-google-labs/virtual-pet-game-nodejs) - It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.
 - [Spellcast](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
 - Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Parameters sample (using Dialogflow).
 - Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
