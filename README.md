@@ -85,6 +85,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Cathy Pearl](https://twitter.com/cpearl42) - Head of Conversation Design Outreach @Google.
 - [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
 - [Nick Felker](https://twitter.com/handnf) - Developer Programs Engineer at Google.
+- [Leon Nicholls](https://twitter.com/TheLeonNicholls) - Google Developer Relations Engineer
 
 ## Applications
 - [TuneIn](https://assistant.google.com/services/a/uid/000000c9bec03997) - TuneIn is your everything audio app. With more than 100,000 radio stations and 5.7 million podcasts.
