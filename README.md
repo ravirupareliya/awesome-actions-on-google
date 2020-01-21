@@ -9,6 +9,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Blogs](#blogs)
 - [Videos](#videos)
 - [Codelabs/Courses](#codelabscourses)
+- [Podcasts](#podcasts)
 - [Open source code](#open-source-code)
 - [People to follow](#people-to-follow)
 - [Applications](#applications)
@@ -57,6 +58,8 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) - Udemy course to create an app for the Google Assistant and Google Home in Node.js.
 - [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) - Udemy course to build actions with Dialogflow.
 
+## Podcasts
+- [Assistant On Air](https://podcasts.google.com/?feed=aHR0cHM6Ly9hY3Rpb25zb25nb29nbGUubGlic3luLmNvbS9yc3M&ved=0CAAQ4aUDahcKEwiQruG2mJTnAhUAAAAAHQAAAAAQAQ) - By Google team
 
 ## Open source code
 - [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
