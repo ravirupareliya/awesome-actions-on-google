@@ -63,6 +63,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) - Qwiklabs quest with 6 labs.
 - [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) - Udemy course to create an app for the Google Assistant and Google Home in Node.js.
 - [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) - Udemy course to build actions with Dialogflow.
+- [Developing Google Assistant Actions Using Dialogflow](https://www.udemy.com/course/developing-google-assistant-actions-using-dialogflow/) - Udemy course for beginners to learn how to develop and publish Google Assistant Actions using Dialogflow.
 
 ## Podcasts
 - [Assistant On Air](https://podcasts.google.com/?feed=aHR0cHM6Ly9hY3Rpb25zb25nb29nbGUubGlic3luLmNvbS9yc3M&ved=0CAAQ4aUDahcKEwiQruG2mJTnAhUAAAAAHQAAAAAQAQ) - By Google team
