@@ -22,6 +22,7 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 - [Interactive Canvas](https://developers.google.com/actions/interactivecanvas)
 
 ## Blogs
+- [Articles of "Action On Google" by Google Developers on Medium](https://medium.com/google-developers/tagged/actions-on-google)
 - [Chord Assist: Building an accessible smart guitar for the blind, deaf and mute](https://medium.com/google-developer-experts/chord-assist-building-an-accessible-smart-guitar-for-the-mute-deaf-and-blind-4f81669ab663) - By Joe Birch.
 - [The Full-Stack Guide to Actions for Google Assistant](https://medium.com/google-developer-experts/the-full-stack-guide-to-actions-for-google-assistant-e1765edd075b) - By [Uri Shaked](https://twitter.com/UriShaked)
 - [Building an Action for Google Assistant: Getting Started](https://www.raywenderlich.com/1217997-building-an-action-for-google-assistant-getting-started) - By [Jenn Bailey](https://www.raywenderlich.com/u/invisigothcodegirl)
